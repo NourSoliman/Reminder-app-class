@@ -1,0 +1,3 @@
+1- action types hn4of el types 
+2- action creator 3bara 3n function btrg3 action 
+3- bn3ml reducers 
